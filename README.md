@@ -15,3 +15,5 @@ https://midlandu.zoom.us/j/91602989647?pwd=eVdKbk9XVXJuRkJTdmJ3SDZKRFdOUT09
 
 Meeting ID: 916 0298 9647
 Passcode: 953831
+# Video Links
+  -2022.10.28 https://midlandu.zoom.us/rec/share/WmqAA0-QXlhDz8ao7fL7arFJbaKTr3B5vt8CVbeIxGO9XuKsANOs9SaJtURKHWgV.HeXHfOedDUO6qdQz (Passcode: 9B4T^W!+)
