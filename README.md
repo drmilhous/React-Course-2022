@@ -19,3 +19,6 @@ Passcode: 953831
   -2022.10.28 https://midlandu.zoom.us/rec/share/WmqAA0-QXlhDz8ao7fL7arFJbaKTr3B5vt8CVbeIxGO9XuKsANOs9SaJtURKHWgV.HeXHfOedDUO6qdQz (Passcode: 9B4T^W!+)
 
   -2022.11.04 https://midlandu.zoom.us/rec/share/YlaJ0ugh3PpsnemeVmfMkqm8JNVh1KwZKtgmo6cnRC0OMMKyDX8BlS-37NUAScYR.ThBZa3eggeDHAJ87 (Passcode: 7^P6N#2V)
+  
+  -2022.11.19 https://midlandu.zoom.us/rec/share/w7xo-uO5XN336_VGWHXBbPegZ1vp4GxpYHB5JB-DUof1123QO3mJkC7_kqvxMW0.6FrwReiMWl-hZSNt?startTime=1668794326000
+Passcode: 0g6$dN1N
