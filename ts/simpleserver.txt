@@ -1,0 +1,9 @@
+https://www.npmjs.com/package/json-server#filter
+npm install -g json-server 
+json-server --watch db.json  
+curl http://localhost:3000/tables 
+curl -X "DELETE" http://localhost:3000/tables/2
+curl -H "Content-Type: application/json" -d '{"id": 1, "name": "st_data","description": "st_data" }' http://localhost:3000/tables
+
+yarn add axios
+yarn add sass

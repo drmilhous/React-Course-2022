@@ -1,0 +1,59 @@
+{
+    "tables": [
+        {
+            "name": "f10",
+            "description": "diseases",
+            "id": 3
+        },
+        {
+            "id": 1,
+            "name": "st_data",
+            "description": "st_data"
+        },
+        {
+            "name": "Hi",
+            "description": "There",
+            "id": 4
+        },
+        {
+            "name": "f27",
+            "description": "Skin Cancer",
+            "id": 5
+        },
+        {
+            "name": "f33",
+            "description": "Yellow banan",
+            "id": 6
+        },
+        {
+            "name": "This is a test",
+            "description": "The wind was cold and the air was light.",
+            "id": 7
+        },
+        {
+            "name": "f22",
+            "description": "Cancer Diagnosis 1",
+            "id": 8
+        }
+    ],
+    "fields": [
+        {
+            "id": 1,
+            "table_fk": 1,
+            "name": "f1",
+            "description": "Names"
+        },
+        {
+            "id": 2,
+            "table_fk": 2,
+            "name": "f2",
+            "description": "Age"
+        },
+        {
+            "id": 3,
+            "table_fk": 2,
+            "name": "f7",
+            "description": "Date"
+        }
+    ]
+}
