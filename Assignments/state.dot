@@ -1,0 +1,10 @@
+digraph {
+    A -> B [label = "purple";];
+    A -> Lock [label = "!purple";];
+    B -> C [label = "wagon";];
+    B -> Lock [label = "!wagon";];
+    C -> D [label = "rocket";];
+    C -> Lock [label = "!rocket";];
+    D [label = "Logged In";];
+    Lock [label = "Acccount Locked";];
+}
