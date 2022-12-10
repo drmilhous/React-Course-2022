@@ -26,3 +26,6 @@ Passcode: 0g6$dN1N
 
 -2022.12.02 https://midlandu.zoom.us/rec/share/5jhF3lWrw4dQrSagXrnGnhWMxWf4L982-92cuO8h2CL_Eh5oXpcnOls6I2CnRy-R.1fF6w1G4a0aDbFl4?startTime=1670005050000
 Passcode: m#4^&m+4
+
+-2022.12.10 https://midlandu.zoom.us/rec/share/SK-tYZ6uY3d54ECAJ-6h2CruBS4_m1KxdUmsCMAWrFwu6LziH4qc-AuPN5ctNm-b.SYtPMQeTtK8Fa3LZ?startTime=1670609246000
+Passcode: B.Z2C8!W
