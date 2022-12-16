@@ -1,0 +1,45 @@
+header,
+.maze-row {
+    display: flex;
+    /* padding: 1em; */
+    margin: 0.2em;
+    /* aligns all child elements (flex items) in a row */
+}
+
+.maze-col {
+    flex: 1;
+    padding: 0.1em;
+            
+    /* distributes space on the line equally among items */
+}
+$buttonH: 50px;
+$buttonW: 80px;
+
+.maze-b-size{
+    width: $buttonW;
+    height: $buttonH;
+    font-size: x-small;
+}
+
+.maze-b-z {
+    @extend .maze-b-size;
+    background-color: #264965;
+}
+.maze-button-b {
+    @extend .maze-b-size;
+    background-color: #b77da7;
+}
+.maze-button-start
+{
+    @extend .maze-b-size;
+    background-color: #646cff;
+}
+
+.maze-button-end {
+    @extend .maze-b-size;
+    background-color: #c80439;
+}
+.maze-button-end-wait {
+    @extend .maze-b-size;
+    background-color: #04c845;
+}
